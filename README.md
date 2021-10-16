@@ -19,7 +19,7 @@ gscInfo, nCategs = SpeechDownloader.PrepareGoogleSpeechCmd(version=1, task = '35
 If you want a pretrained model, model-attRNN.h5 contains pre-trained weights for task 35word, version=2.
 
 
-Reference 
+Reference <\br>
 A neural attention model for speech command recognition
 Douglas Coimbra de Andradea, Sabato Leob, Martin Loesener Da Silva Vianac, Christoph Bernkopfc
 Laboratory of Voice, Speech and Singing, Federal University of the State of Rio de Janeiro
